@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Hardware%20Asset%20Registry-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-QA%20Testing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Quality-Validation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Compliance-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-Report-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-Presentation-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
 # Hardware Asset Registry – QA/Test Engineering Project  
 ### End‑to‑End Data Quality • Security Compliance • Lifecycle Validation • Financial Analysis • Automated Reporting
 
@@ -136,17 +148,7 @@ Issues Excel Files   Summary Metrics         Status/Class Dist.
                 ┌────────────────────────┐
                 │ PowerPoint Presentation │
                 └────────────────────────┘
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Hardware%20Asset%20Registry-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-QA%20Testing-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Quality-Validation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Compliance-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Word-Report-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-Presentation-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-</p>
+
 
 
 
